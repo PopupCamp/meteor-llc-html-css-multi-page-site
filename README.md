@@ -1,5 +1,7 @@
 #Ladies Learning Code
 
+[![Join the chat at https://gitter.im/PopupCamp/meteor-llc-html-css-multi-page-site](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PopupCamp/meteor-llc-html-css-multi-page-site?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##Intro to HTML & CSS: Building a multi-page website
 
 A full day introductory HTML & CSS workshop.
